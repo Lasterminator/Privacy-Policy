@@ -2,11 +2,7 @@
 
 Privacy policy pages for apps and games, hosted on GitHub Pages. Each app has its own page so you can give store consoles (e.g. Google Play) a direct URL.
 
-# Privacy Policy (site)
-
-Privacy policy pages for apps and games, hosted on GitHub Pages. Each app has its own page so you can give store consoles (e.g. Google Play) a direct URL.
-
-## One-time publish (create repo and go live)
+## One-time publish
 
 Do this once to put the site on GitHub and turn on Pages:
 
@@ -40,7 +36,8 @@ Do this once to put the site on GitHub and turn on Pages:
 
 4. **Use your URLs**
    - Hub: `https://lasterminator.github.io/Privacy-Policy/`
-   - Infinite Labyrinth (Play Console): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
+   - Infinite Labyrinth – Privacy policy (Play Console): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
+   - Infinite Labyrinth – Data deletion (Play Console “Delete account URL”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
 
 ## Publish on GitHub Pages
 
@@ -55,12 +52,13 @@ Do this once to put the site on GitHub and turn on Pages:
 
 3. **Your URLs**
    - Hub (list of all apps):  
-     `https://<your-username>.github.io/<repo-name>/`  
-     Example: `https://lasterminator.github.io/Privacy-Policy/`
-   - Infinite Labyrinth (for Play Console):  
-     `https://<your-username>.github.io/<repo-name>/infinite-labyrinth.html`
+     `https://lasterminator.github.io/Privacy-Policy/`
+   - Infinite Labyrinth – Privacy policy:  
+     `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
+   - Infinite Labyrinth – Data deletion (Play “Delete account URL”):  
+     `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
 
-In **Google Play Console** → your app → **Policy** → **Privacy policy**, paste the **app-specific** URL (e.g. the `infinite-labyrinth.html` link), not the hub.
+In **Google Play Console** → your app → **Policy** → **Privacy policy**, use the privacy policy URL. For **Delete account URL**, use the data deletion URL.
 
 ## Adding a new app or game
 
