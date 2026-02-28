@@ -2,6 +2,46 @@
 
 Privacy policy pages for apps and games, hosted on GitHub Pages. Each app has its own page so you can give store consoles (e.g. Google Play) a direct URL.
 
+# Privacy Policy (site)
+
+Privacy policy pages for apps and games, hosted on GitHub Pages. Each app has its own page so you can give store consoles (e.g. Google Play) a direct URL.
+
+## One-time publish (create repo and go live)
+
+Do this once to put the site on GitHub and turn on Pages:
+
+1. **Log in to GitHub CLI** (if you use it):
+   ```bash
+   gh auth login
+   ```
+   Then create the repo and push:
+   ```bash
+   cd "/Users/subhash/Documents/GitHub/Privacy Policy"
+   gh repo create Lasterminator/Privacy-Policy --public --source=. --push
+   ```
+   Skip to step 3.
+
+2. **Or create the repo on GitHub manually**
+   - Go to https://github.com/new
+   - Repository name: `Privacy-Policy`
+   - Owner: `Lasterminator`
+   - Public, do **not** add a README or .gitignore (repo should be empty)
+   - Create repository  
+   Then push from this folder:
+   ```bash
+   cd "/Users/subhash/Documents/GitHub/Privacy Policy"
+   git push -u origin main
+   ```
+
+3. **Enable GitHub Pages**
+   - On GitHub open **Lasterminator/Privacy-Policy** → **Settings** → **Pages**
+   - Under **Source** choose **Deploy from a branch**
+   - **Branch:** `main`, **Folder:** `/ (root)` → Save
+
+4. **Use your URLs**
+   - Hub: `https://lasterminator.github.io/Privacy-Policy/`
+   - Infinite Labyrinth (Play Console): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
+
 ## Publish on GitHub Pages
 
 1. **Push this repo to GitHub**  
