@@ -38,6 +38,7 @@ Do this once to put the site on GitHub and turn on Pages:
    - Hub: `https://lasterminator.github.io/Privacy-Policy/`
    - Infinite Labyrinth – Privacy policy (Play Console): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
    - Infinite Labyrinth – Data deletion (Play Console “Delete account URL”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
+   - Infinite Labyrinth – Terms of Service (Play Console “Terms of service”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-terms.html`
 
 ## Publish on GitHub Pages
 
@@ -57,8 +58,13 @@ Do this once to put the site on GitHub and turn on Pages:
      `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
    - Infinite Labyrinth – Data deletion (Play “Delete account URL”):  
      `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
+   - Infinite Labyrinth – Terms of Service:  
+     `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-terms.html`
 
-In **Google Play Console** → your app → **Policy** → **Privacy policy**, use the privacy policy URL. For **Delete account URL**, use the data deletion URL.
+In **Google Play Console** → your app → **Policy**:
+- **Privacy policy**: use the privacy policy URL
+- **Delete account URL**: use the data deletion URL
+- **Terms of service**: use the Terms of Service URL
 
 ## Adding a new app or game
 
