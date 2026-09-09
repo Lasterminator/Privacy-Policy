@@ -39,6 +39,7 @@ Do this once to put the site on GitHub and turn on Pages:
    - Infinite Labyrinth – Privacy policy (Play Console): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth.html`
    - Infinite Labyrinth – Data deletion (Play Console “Delete account URL”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
    - Infinite Labyrinth – Terms of Service (Play Console “Terms of service”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-terms.html`
+   - Lantern City – Privacy policy (Play Console): `https://lasterminator.github.io/Privacy-Policy/lantern-city.html`
 
 ## Publish on GitHub Pages
 
@@ -60,6 +61,9 @@ Do this once to put the site on GitHub and turn on Pages:
      `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-deletion.html`
    - Infinite Labyrinth – Terms of Service:  
      `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-terms.html`
+   - Lantern City – Privacy policy:  
+     `https://lasterminator.github.io/Privacy-Policy/lantern-city.html`
+     (generated from the game's source: `npm run gen:privacy` in the lantern-city repo writes `docs/lantern-city.html`; copy it here)
 
 In **Google Play Console** → your app → **Policy**:
 - **Privacy policy**: use the privacy policy URL
