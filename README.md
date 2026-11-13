@@ -41,6 +41,7 @@ Do this once to put the site on GitHub and turn on Pages:
    - Infinite Labyrinth – Terms of Service (Play Console “Terms of service”): `https://lasterminator.github.io/Privacy-Policy/infinite-labyrinth-terms.html`
    - Lantern City – Privacy policy (Play Console, App Store Connect): `https://lasterminator.github.io/Privacy-Policy/lantern-city.html`
    - Lantern City – Terms of Service: `https://lasterminator.github.io/Privacy-Policy/lantern-city-terms.html`
+   - Let Ollie Win – Privacy policy (AdMob, Play Console, App Store Connect): `https://lasterminator.github.io/Privacy-Policy/let-ollie-win.html`
    - Lantern City – Support (App Store Connect “Support URL”): `https://lasterminator.github.io/Privacy-Policy/lantern-city-support.html`
 
 ## Publish on GitHub Pages
